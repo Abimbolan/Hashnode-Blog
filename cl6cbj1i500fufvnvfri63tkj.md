@@ -14,7 +14,8 @@ That was when I made the decision to switch to tech.
 
 When I told my husband of my decision to switch career, he assured me that I could do it and pledged his support. But then (just as it happens with every new venture), self doubt kicked in. I started second-guessing myself. Series of demeaning thoughts spiralled through my mind. Thoughts like:
 
-- 'The technical field is male dominated, what if I don't fit in?' - 'What if I'm late to the party in regards to age and marital status?' 
+- 'The technical field is male dominated, what if I don't fit in?'
+- 'What if I'm late to the party in regards to age and marital status?' 
 - 'What if I had 'missed my bus' to tech?' 
 - 'What if I am unable to cope?'
 - 'What if I fail?' 
