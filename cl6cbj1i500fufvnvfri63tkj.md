@@ -32,7 +32,7 @@ I got accepted for the program and that was the official landmark in my transiti
 The journey with ALX is to officially begin in a few days but my journey into tech has began already with an unquenchable thirst for knowledge.
 With my acceptance into the 9th Cohort of the ALX SE program came a renewed vigour and determination to not only go through with my decision to change to tech but also to succeed on the field. 
 
-During one of my usual searches on ALX & Software Engineering, I ran into a Nairaland forum discussion about the Program. On the thread were other applicants who had been accepted into the same cohort as me and some who had just started the program. 
+During one of my usual searches on ALX and Software Engineering, I ran into a Nairaland forum discussion about the Program. On the thread were other applicants who had been accepted into the same cohort as me and some who had just started the program. 
 The forum thread led to the creation of an unofficial WhatsApp group for the sole mission of discussing and preparing for the [ALX SE program](https://www.alxafrica.com/software-engineering-2022). 
 The group is the first technically exclusive group I'll be in. And although it is a whole new world for me, we are fast becoming a family with the unifying goal of succeeding through the program. Being in such a group is priceless as it has helped structure my preparation for the journey ahead.
 
