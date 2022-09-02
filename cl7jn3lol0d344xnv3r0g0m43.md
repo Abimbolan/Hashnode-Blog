@@ -1,4 +1,4 @@
-## Write Down Your Process, Your Memory Could Fail You
+## Write Down Your Process, Your Memory Can Fail You
 
 > "A good documentation trail and good content will help you down the road with unexpected liability" - David Lewis
 
